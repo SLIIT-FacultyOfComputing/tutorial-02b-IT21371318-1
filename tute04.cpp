@@ -1,4 +1,4 @@
-/*Exercise 4 - Functions
+*/*Exercise 4 - Functions
 
 Write a program to calculate the function called nCr which is defined as
 
